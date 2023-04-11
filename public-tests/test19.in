@@ -1,0 +1,59 @@
+r a
+c a1
+c a2
+c a3
+c
+r a1
+c
+r a3
+c
+p p1 1 1
+c a4
+c a5
+l a4 p1 p1 0.5 0.5
+p
+c
+r a4
+p
+c
+a
+c c1
+c c2
+c c3
+c c4
+c c5
+c c6
+c
+r c6
+c
+r c1
+c
+r c3
+c
+r c4
+c
+a
+c c1
+c c2
+c c3
+p p1 1 1
+p p2 1 1
+p p3 1 1
+l c1 p1 p2 1 1
+l c1 p2 p3 2 2
+l c2 p3 p2 3 3
+l c2 p2 p1 4 4
+l c3 p1 p3 5 5
+l c3 p3 p2 6 6
+c
+p
+i
+r c2
+c
+p
+i
+r c1
+c
+p
+i
+q

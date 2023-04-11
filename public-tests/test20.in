@@ -1,0 +1,16 @@
+p a 1 1
+p b 2 2
+p c 3 3
+c c1
+p
+c
+l c1 a b 0.1 0.1
+l c1 b c 1 1
+l c1 c b 2 2
+l c1 b a 3 3
+p
+c
+r c1
+c
+p
+q

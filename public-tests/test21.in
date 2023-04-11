@@ -1,0 +1,88 @@
+p a1 1 1
+p a 1 1
+p a2 1 1
+p b 1 1
+p c 1 1
+p a3 1 1
+p
+e a1
+p
+e a2
+p
+e a3
+p
+c c1
+c c2
+l c1 a b 1 1
+l c1 b c 1.1 1.1
+l c2 c b 1 1
+l c2 b a 1.1 1.1
+c
+p
+i
+e a
+c
+p
+i
+a
+c c1
+c c2
+c c3
+c c4
+p a 1 1
+p b 2 2
+p c 3 3
+p d 4 4
+p e 5 5
+p f 6 6
+p g 7 7
+l c1 a b 0.1 0.1
+l c1 b c 0.4 0.4
+l c1 c d 0.5 0.5
+l c2 d e 1 1
+l c2 e f 2 2
+l c2 f g 3 3
+l c3 a c 1 1
+l c3 c e 3 3
+l c3 e e 5 5
+l c3 e f 0.1 0.1
+l c4 a b 1 1
+l c4 b c 2 2
+l c4 c b 3 3
+l c4 b d 5 5
+p
+c
+i
+e e
+p
+c
+i
+e a
+p
+c
+i
+e a
+p
+c
+i
+e b
+p
+c
+i
+e c
+p
+c
+i
+e d
+p
+c
+i
+e f
+p
+c
+i
+e g
+p
+c
+i
+q
